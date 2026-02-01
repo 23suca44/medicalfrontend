@@ -39,13 +39,19 @@
     "scripts": {
   "test": "react-scripts test"
 },
+
+  "name": "medical-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "20.x"
+},
+
 "browserslist": [
   ">0.2%",
   "not dead",
   "not op_mini all"
 ]
-
-
-
-  }
 }
+}
+  
