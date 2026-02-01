@@ -1,7 +1,10 @@
 {
-  "name": "medicalfrontend",
-  "version": "0.1.0",
+  "name": "medical-frontend",
+  "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -35,23 +38,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "scripts": {
-  "test": "react-scripts test"
-},
-
-  "name": "medical-frontend",
-  "version": "1.0.0",
-  "private": true,
-  "engines": {
-    "node": "20.x"
-},
-
-"browserslist": [
-  ">0.2%",
-  "not dead",
-  "not op_mini all"
-]
+    ]
+  }
 }
-}
-  
