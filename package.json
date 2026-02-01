@@ -38,7 +38,13 @@
     ],
     "scripts": {
   "test": "react-scripts test"
-}
+},
+"browserslist": [
+  ">0.2%",
+  "not dead",
+  "not op_mini all"
+]
+
 
 
   }
